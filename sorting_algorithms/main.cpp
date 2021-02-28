@@ -10,8 +10,8 @@
 
 void mainWindow(); //Creates main window with options
 void insertionSort(); //Creates new window with insertion sort algorithm
-void selectionSort(); //Creates new window with insertion sort algorithm
-void bubbleSort(); //Creates new window with insertion sort algorithm
+void selectionSort(); //Creates new window with selection sort algorithm
+void bubbleSort(); //Creates new window with bubble sort algorithm
 
 const int MAIN_WINDOW_WIDTH = 400; //Width of main window
 const int MAIN_WINDOW_HEIGHT = 110; // Height of main window
